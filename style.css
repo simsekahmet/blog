@@ -1,0 +1,112 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    
+  }
+
+  h1 { 
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size:25px; color: rgb(0, 0, 0);background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+/*
+  .line-1{
+    width: auto;
+    height: 2px;
+    background: black;
+}
+*/
+
+.topnav {
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 1px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+    /* Change the color of links on hover */
+    .topnav a:hover {
+      /*
+      background-color: rgb(133, 133, 133);
+      color: black;
+      */
+      text-decoration: underline;
+      /*
+      font-weight: 900;
+      */
+    }
+    
+    /* Add a color to the active/current link */
+    .topnav a.active {
+      background-color: #04aa6d;
+      color: rgb(0, 0, 0);
+    }
+
+  /* Set a specific color for each brand */
+  
+  /* Instagram */
+  .fa-instagram {
+    padding: auto;
+    height: auto;
+    width:auto;
+    background: #ffffff;
+    color: white;
+    border-radius: 0%;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: none;
+    margin-top: auto;
+    margin-left: auto;
+
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    padding: auto;
+    height: auto;
+    width:auto;
+    background: #ffffff;
+    color: white;
+    border-radius: 0%;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: none;
+    margin-top: auto;
+    margin-left: auto;
+
+    }
+
+    /* GitHub */
+    .fa-github {
+      height: auto;
+      width: auto;
+      background: #ffffff;
+      color: white;
+      border-radius: 0%;
+      text-align: center;
+      font-size: 50px;
+      text-decoration: none;
+      margin-top: auto;
+      margin-left: auto;
+
+    }
+
+
+
+    
+
+
+    
